@@ -1,0 +1,56 @@
+body {
+    background-color: powderblue;
+}
+
+header {
+    margin: -20px;
+    padding: 20px;
+    background-color: wheat;
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    margin-top: -1px;
+    margin-left: -8px;
+    width: 100%;  
+}
+
+h2 {
+    padding-left: 300px;
+}
+form {
+    padding-top: 50px;
+    padding-left: 400px;
+}
+
+ol {
+    padding-left: 400px;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#about-me {
+    margin: -15px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.nav-bar {
+    display: inline;
+    margin: 50px;
+}
